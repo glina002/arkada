@@ -18,22 +18,25 @@
    pip install pygame.
    ```
 
-Для Ubuntu и родственных дистрибутивов:  
-    ```bash
-    python3 -m pip install -U pygame --user
-    ```
-
-Если pip не установлен, предварительно нужно выполнить команду: 
+Для Ubuntu и родственных дистрибутивов: 
+ 
    ```bash
-    sudo apt install python3-pip
-    ``
+   python3 -m pip install -U pygame --user
+   ```
+
+Если pip не установлен, предварительно нужно выполнить команду:
+
+   ```bash
+   sudo apt install python3-pip
+   ```
 
 Для Windows:
-   ```bash
-    py -m pip install -U pygame --user
-    ```
 
-Для запуска игры выполните следующие шаги: 
+   ```bash
+   py -m pip install -U pygame --user
+   ```
+
+Для запуска игры выполните следующие шаги:
 
 1. Склонируйте этот репозиторий: 
 
