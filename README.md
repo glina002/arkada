@@ -13,9 +13,10 @@
 Развернуть среду программирования Python  
 
 Установить Pygame с помощью команды:
-     ```bash
-     pip install pygame.
-     ```
+
+   ```bash
+   pip install pygame.
+   ```
 
 Для Ubuntu и родственных дистрибутивов:  
     ```bash
