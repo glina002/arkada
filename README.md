@@ -62,4 +62,4 @@
 - Стрелка вправо: перемещение платформы вправо.
 
 ## Скриншоты
-![Screenshot 1](screenshot1.png)
+![Screenshots](screenshot1.png)
