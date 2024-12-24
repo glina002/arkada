@@ -5,9 +5,13 @@
 
 ## Установка
 Для запуска игры вам потребуется Python 3 и библиотека Tkinter. Убедитесь, что у вас установлен Python. 
+
 Также требуется модуль pygame: 
+
 Установить Pygame на Python: 
+
 Развернуть среду программирования Python  
+
 Установить Pygame с помощью команды:
 
       ```bash
@@ -37,7 +41,7 @@
 1. Склонируйте этот репозиторий: 
 
    ```bash
-   git clone https://github.com/glina002/arkada.git
+   git clone https://github.com/glina002/arkada.git 
    ```
 
 2. Перейдите в каталог проекта:
@@ -62,4 +66,4 @@
 - Стрелка вправо: перемещение платформы вправо.
 
 ## Скриншоты
-![screenshots](screenshot1.png)
+![Скриншот 1](screenshots/screenshot1.png)
